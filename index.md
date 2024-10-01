@@ -54,6 +54,4 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to evaluating adversarial robustness.</li>
 <li>I love music, particularly Chinese music.</li>
   
-{% include_relative _includes/news.md %}
-
 {% include_relative _includes/contact.md %}
